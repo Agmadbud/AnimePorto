@@ -63,7 +63,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/akira/darkfolio.git
+git clone https://github.com/Agmadbud/AnimePorto.git
 ```
 
 2. Install dependencies:
@@ -138,7 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Created by Akira
 - GitHub: [@akira](https://github.com/akira)
-- Portfolio: [akira.dev](#)
+- Portfolio: [akira.dev](https://akiraporto.vercel.app/)
 
 ## 🌟 Acknowledgments
 
@@ -151,5 +151,5 @@ Created by Akira
 ---
 
 <div align="center">
-  Made with ❤️ by Akira in Japan 🗾
+  Made with ❤️ by Akira
 </div>
